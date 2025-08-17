@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jatin-asher.github.io/Portfolio_project/categories/</loc>
+    <loc>http://localhost:1313/Portfolio_project/projects/dummy/</loc>
   </url><url>
-    <loc>https://jatin-asher.github.io/Portfolio_project/search/</loc>
+    <loc>http://localhost:1313/Portfolio_project/categories/</loc>
   </url><url>
-    <loc>https://jatin-asher.github.io/Portfolio_project/tags/</loc>
+    <loc>http://localhost:1313/Portfolio_project/projects/</loc>
   </url><url>
-    <loc>https://jatin-asher.github.io/Portfolio_project/</loc>
+    <loc>http://localhost:1313/Portfolio_project/search/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio_project/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio_project/</loc>
   </url>
 </urlset>
