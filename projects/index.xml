@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Projects on Vivek Agarwal</title><link>https://jatin-asher.github.io/Portfolio_project/projects/</link><description>Recent content in Projects on Vivek Agarwal</description><generator>Hugo -- 0.148.2</generator><language>en-us</language><atom:link href="https://jatin-asher.github.io/Portfolio_project/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>This is the dummy project</title><link>https://jatin-asher.github.io/Portfolio_project/projects/dummy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jatin-asher.github.io/Portfolio_project/projects/dummy/</guid><description>&lt;h3 id="-github">🔗 &lt;a href="https://github.com/Jatin-Asher/Portfolio_project">Github&lt;/a>&lt;/h3>
 &lt;h3 id="-project_">🔗 &lt;a href="https://jatin-asher.github.io/Portfolio_project/">Project_link&lt;/a>&lt;/h3>
 &lt;h2 id="description">Description&lt;/h2>
-&lt;p>This description is about the dummy project which is added in this page to check the interface of the website.This description is visible to the user after clicking on the project cover.in this page we can add,links , images,text and many more things to make this page beautifull.&lt;/p></description></item></channel></rss>
+&lt;p>This description is about the dummy project which is added in this page to check the interface of the website.This description is visible to the user after clicking on the project cover.in this page we can add,links , images,text and many more things to make this page beautifull.&lt;/p>
+&lt;h2 id="features-of-hugo-static-site">Features of Hugo Static Site&lt;/h2>
+&lt;p>⚡ Super Fast – Hugo generates static HTML pages, so sites load in milliseconds.&lt;/p></description></item><item><title>This is the second dummy project</title><link>https://jatin-asher.github.io/Portfolio_project/projects/dummy2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jatin-asher.github.io/Portfolio_project/projects/dummy2/</guid><description>&lt;h2 id="description">Description&lt;/h2>
+&lt;p>This project is a Property Dealing Website designed to connect property buyers, sellers, and agents on a single platform. It allows users to search, list, and manage properties with ease while providing secure and transparent interactions.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ol>
+&lt;li>Secure Authentication System&lt;/li>
+&lt;/ol>
+&lt;p>JWT (JSON Web Tokens) / Session-based login for secure user sessions.&lt;/p>
+&lt;p>Hashed &amp;amp; Salted Passwords using bcrypt/argon2 instead of storing plain text.&lt;/p>
+&lt;p>Two-Factor Authentication (2FA) for extra security (OTP via email/SMS).&lt;/p></description></item></channel></rss>
