@@ -15,7 +15,24 @@
       <description>&lt;h3 id=&#34;-github&#34;&gt;🔗 &lt;a href=&#34;https://github.com/Jatin-Asher/Portfolio_project&#34;&gt;Github&lt;/a&gt;&lt;/h3&gt;
 &lt;h3 id=&#34;-project_&#34;&gt;🔗 &lt;a href=&#34;https://jatin-asher.github.io/Portfolio_project/&#34;&gt;Project_link&lt;/a&gt;&lt;/h3&gt;
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;This description is about the dummy project which is added in this page to check the interface of the website.This description is visible to the user after clicking on the project cover.in this page we can add,links , images,text and many more things to make this page beautifull.&lt;/p&gt;</description>
+&lt;p&gt;This description is about the dummy project which is added in this page to check the interface of the website.This description is visible to the user after clicking on the project cover.in this page we can add,links , images,text and many more things to make this page beautifull.&lt;/p&gt;
+&lt;h2 id=&#34;features-of-hugo-static-site&#34;&gt;Features of Hugo Static Site&lt;/h2&gt;
+&lt;p&gt;⚡ Super Fast – Hugo generates static HTML pages, so sites load in milliseconds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>This is the second dummy project</title>
+      <link>http://localhost:1313/Portfolio_project/projects/dummy2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio_project/projects/dummy2/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This project is a Property Dealing Website designed to connect property buyers, sellers, and agents on a single platform. It allows users to search, list, and manage properties with ease while providing secure and transparent interactions.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Secure Authentication System&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;JWT (JSON Web Tokens) / Session-based login for secure user sessions.&lt;/p&gt;
+&lt;p&gt;Hashed &amp;amp; Salted Passwords using bcrypt/argon2 instead of storing plain text.&lt;/p&gt;
+&lt;p&gt;Two-Factor Authentication (2FA) for extra security (OTP via email/SMS).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

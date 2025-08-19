@@ -1,0 +1,17 @@
+{{- $code := .Inner -}}
+<div class="snippet-box" style="margin:1rem 0;border:1px solid var(--border);border-radius:12px;padding:12px;">
+  <div class="snippet-actions" style="display:flex;gap:.5rem;margin-bottom:.5rem;">
+    <button type="button" class="run-js" style="padding:.35rem .7rem;border:1px solid var(--border);border-radius:8px;cursor:pointer;">Run</button>
+    <button type="button" class="copy-js" style="padding:.35rem .7rem;border:1px solid var(--border);border-radius:8px;cursor:pointer;">Copy</button>
+  </div>
+
+  <div class="highlight-wrapper" style="margin-bottom:.5rem;">
+    {{- highlight $code "javascript" "" -}}
+  </div>
+
+  <!-- raw code (hidden) for execution and copy -->
+  <textarea class="js-raw" hidden>{{- $code -}}</textarea>
+
+  <div class="js-output-title" style="font-weight:600;margin:.25rem 0;">Output</div>
+  <pre class="js-output" style="min-height:2.2em;white-space:pre-wrap;"></pre>
+</div>

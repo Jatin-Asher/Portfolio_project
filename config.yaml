@@ -3,6 +3,16 @@ languageCode: en-us
 title: Vivek Agarwal
 theme: PaperMod
 
+params:
+  assets: "js/script.js"
+
+markup:
+  highlight:
+    noClasses: false
+
+params:
+  disableScrollBarStyle: false
+
 menu:
   main:
     - identifier: home
@@ -51,8 +61,8 @@ params:
     title: "Vivek Agarwal"
     subtitle: Hi, I'm Vivek, a passionate and results-driven Backend Software Engineer with a proven track record of delivering high-performance, scalable, and secure backend solutions for clients across various industries.
 
- 
-    # imageUrl: "home/casual-small-square.jpeg"
+
+    imageUrl: "home/Vivek_img.png"
     imageWidth: 220
     imageHeight: 220
     # buttons:
@@ -99,3 +109,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
+
+
+
